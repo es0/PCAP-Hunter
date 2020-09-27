@@ -2,8 +2,9 @@
 Script that does basic threat hunting on a pcap file
 
 
-usage: PCAP-Hunter.sh <pcap file>
+```USAGE: ./PCAP-Hunter.sh <PCAP-FILE>```
   
 ## requirements:
 zeek
+
 tshark
