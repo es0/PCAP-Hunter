@@ -30,7 +30,7 @@ echo "                                                                          
 PCAP="$1"
 if [ -z "$PCAP" ] 
 then
-	echo "USAGE: ./pcap-hunt.sh <PCAP-FILE>"
+	echo "USAGE: ./PCAP-Hunter.sh <PCAP-FILE>"
  
 else
 	echo "READING $PCAP"
